@@ -1,8 +1,9 @@
-# Avance_1 UML
-![image](https://github.com/user-attachments/assets/8d2f385c-f5e7-40f2-9f5d-0ad9d54b535b)
+# Avance UML
+![image](https://github.com/user-attachments/assets/6618b0c5-f614-43dc-9e7c-5191be3df2c7)
+![image](https://github.com/user-attachments/assets/96ef1673-5b26-4b1f-b2a0-51c70e5169b1)
 
-# Avance_2 UML
+# Avance UML
 
-# Avance_3 UML
+# Avance UML
 
 # AvanceFinal UML
